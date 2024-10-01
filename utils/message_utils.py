@@ -17,3 +17,7 @@ def create_error_message(error_type):
 
 def handle_error_message(error_message):
     pass
+
+if __name__ == "__main__":
+    # Testing code goes here
+    pass

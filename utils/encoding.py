@@ -17,3 +17,7 @@ def serialize_key(key):
 
 def deserialize_key(key_str):
     pass
+
+if __name__ == "__main__":
+    # Testing code goes here
+    pass

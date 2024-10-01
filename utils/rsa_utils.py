@@ -9,3 +9,7 @@ def rsa_decrypt(ciphertext, private_key):
 
 def verify_rsa_keypair(public_key, private_key, p, q):
     pass
+
+if __name__ == "__main__":
+    # Testing code goes here
+    pass

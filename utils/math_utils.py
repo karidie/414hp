@@ -15,3 +15,7 @@ def gcd(a, b):
 
 def discrete_log(g, h, p):
     pass
+
+if __name__ == "__main__":
+    # Testing code goes here
+    pass
