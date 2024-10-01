@@ -12,3 +12,6 @@ def mod_inverse(a, m):
 
 def gcd(a, b):
     pass
+
+def discrete_log(g, h, p):
+    pass
