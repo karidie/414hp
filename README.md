@@ -1,16 +1,21 @@
-# Mathematical Foundation of Computer Science
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=150&section=header&text=Mathematical%20Foundation%20of%20Computer%20Science&fontSize=30)
 
 ## Team Projects I (Cryptography)
 
-This project aims to implement various cryptographic protocols as a team, consisting of four students per team, with one team having five members. 
-Our focus will be on asymmetric cryptosystems, including RSA and the Diffie-Hellman (DH) key exchange, as well as symmetric encryption methods.
+<div align="left">
+	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
+</div>
+
+Implement the cryptographic protocol as a team with five members. 
+
+Focus on implementing asymmetric cryptosystems including RSA, the Diffie-Hellman (DH) key exchange, and symmetric encryption.
 
 ## Team Introduction
 
-### Team name : 414HP
+### Team 414HP
 
-Our team name is "414HP." This name is derived from the combined horsepower of three cars owned by team members, 
-plus an additional 1 horsepower contributed by 5 team members.
+Our team name is "414HP." This number is derived from the combined horsepower of three cars owned by team members, 
+plus an additional 1 horsepower contributed by man power of all team members.
 
 ### Contribution 
 * **유선오** : Team Leader(God), Message/Network
